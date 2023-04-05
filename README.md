@@ -1,2 +1,2 @@
-# PrepCourse-Henry
-Repositorio de prueba del Prep Course de Henry
+Este archivo es una prueba de como crear un repositorio
+ en gitHub y clonarlo a mi PC
